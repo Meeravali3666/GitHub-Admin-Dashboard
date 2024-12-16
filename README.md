@@ -1,6 +1,5 @@
 Here’s a professional and comprehensive `README.md` file for your GitHub Admin Dashboard project:
 
-```markdown
 # GitHub Admin Dashboard
 
 A modern, responsive React-based dashboard for managing GitHub repositories efficiently. This application provides visual insights, actionable controls, and a user-friendly interface to analyze and manage repositories.
